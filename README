@@ -1,0 +1,12 @@
+Benchmark Timings
+
+File : 20MB
+
+
+2019-08-19
+Python Parser
+  Reading time: 0.15
+  Writing Time: 7.60
+  Decode Time: 117.35
+.NET
+  28 seconds total
